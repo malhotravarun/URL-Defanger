@@ -10,4 +10,4 @@ Run the defang-list.py to defang list of IP addresses and URLs.
 
 # Example
 
-![image](https://user-images.githubusercontent.com/82045287/150688185-bf3afd44-af66-47d6-b8c0-395edf04adf6.png)
+![image](https://user-images.githubusercontent.com/82045287/150688505-3286b11f-344c-43fb-8fdd-695c3828bbae.png)
